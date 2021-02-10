@@ -1,0 +1,14 @@
+2021/02/10-17:48:33.864 76f Reusing MANIFEST /home/user/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/02/10-17:48:33.865 76f Recovering log #94
+2021/02/10-17:48:34.015 76f Level-0 table #97: started
+2021/02/10-17:48:35.435 76f Level-0 table #97: 71014 bytes OK
+2021/02/10-17:48:36.388 76f Delete type=0 #94
+2021/02/10-17:48:36.404 7b6 Compacting 4@0 + 1@1 files
+2021/02/10-17:48:37.460 7b6 Generated table #99@0: 14 keys, 71501 bytes
+2021/02/10-17:48:37.460 7b6 Compacted 4@0 + 1@1 files => 71501 bytes
+2021/02/10-17:48:38.050 7b6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/10-17:48:38.051 7b6 Delete type=2 #88
+2021/02/10-17:48:38.051 7b6 Delete type=2 #93
+2021/02/10-17:48:38.051 7b6 Delete type=2 #97
+2021/02/10-17:48:38.051 7b6 Delete type=2 #90
+2021/02/10-17:48:38.051 7b6 Delete type=2 #95

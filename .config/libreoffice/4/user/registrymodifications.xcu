@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:items xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<item oor:path="/org.openoffice.Office.Common/I18N/CTL"><prop oor:name="CTLFont" oor:op="fuse"><value>true</value></prop></item>
+<item oor:path="/org.openoffice.Office.Linguistic/General"><prop oor:name="DefaultLocale_CTL" oor:op="fuse"><value>ml-IN</value></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="Caption" oor:op="fuse"><value>Rachana</value></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="CaptionHeight" oor:op="fuse"><value xsi:nil="true"/></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="Heading" oor:op="fuse"><value>Rachana</value></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="HeadingHeight" oor:op="fuse"><value xsi:nil="true"/></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="Index" oor:op="fuse"><value>Rachana</value></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="IndexHeight" oor:op="fuse"><value xsi:nil="true"/></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="List" oor:op="fuse"><value>Rachana</value></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="ListHeight" oor:op="fuse"><value xsi:nil="true"/></prop></item>
+<item oor:path="/org.openoffice.Office.Writer/DefaultFontCTL"><prop oor:name="Standard" oor:op="fuse"><value>Rachana</value></prop></item>

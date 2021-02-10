@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=KGeography English
+GenericName=KGeography English
+Comment=Reset KGeography Interface to English
+Exec=/usr/local/reset-settings/kgeography-to-English
+Icon=/usr/local/reset-settings/icons/kgeography.png
+Terminal=false
+Type=Application
+NoDisplay=true

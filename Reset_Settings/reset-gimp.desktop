@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset GIMP
+GenericName=Reset GIMP
+Comment=Reset GIMP to default state
+Exec=/usr/local/reset-settings/reset-gimp
+Icon=/usr/local/reset-settings/icons/gimp.png
+Terminal=false
+Type=Application
+NoDisplay=true

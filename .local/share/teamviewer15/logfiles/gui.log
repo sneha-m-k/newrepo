@@ -1,0 +1,13 @@
+QSGContext::initialize: depth buffer support missing, expect rendering errors
+QSGContext::initialize: stencil buffer support missing, expect rendering errors
+qrc:/ui/MainWindow/Meeting/MeetingJoinPanel.qml:79: TypeError: Cannot read property 'participantName' of null
+qrc:/ui/MainWindow/Meeting/MeetingJoinPanel.qml:17: TypeError: Cannot read property 'joinEnabled' of null
+qrc:/ui/MainWindow/Meeting/MeetingJoinPanel.qml:18: TypeError: Cannot read property 'joining' of null
+qrc:/ui/MainWindow/Onboarding/OnboardingTab.qml:80: TypeError: Cannot read property 'headline' of null
+qrc:/ui/MainWindow/Onboarding/OnboardingTab.qml:95: TypeError: Cannot read property 'image' of null
+qrc:/ui/MainWindow/Onboarding/OnboardingTab.qml:101: TypeError: Cannot read property 'text' of null
+ICE default IO error handler doing an exit(), pid = 4300, errno = 104
+The X11 connection broke: I/O error (code 1)
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 41 requests (41 known processed) with 0 events remaining.
+free(): corrupted unsorted chunks

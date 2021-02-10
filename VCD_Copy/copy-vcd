@@ -1,0 +1,10 @@
+#!/bin/sh
+mkdir -p $HOME/VCD_Copy
+cd $HOME/VCD_Copy
+if ls ./*.mpg > /dev/null 2>&1; then 
+   mkdir -p OLD_Files-$(date +%d-%m-%Y.%H:%M:%S) && mv *.mpg OLD_Files-$(date +%d-%m-%Y.%H:%M:%S)/
+fi
+VCDCOPY='vcdxrip --nofiles -C /dev/sr0 -p'
+$VCDCOPY | zenity --progress --pulsate --title="Copying VCD" --text="Copying..."
+zenity --no-wrap --info --text="Videos have been copied to Home/VCD_Copy"
+

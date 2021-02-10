@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/kite-settings/bookmark1
+Hidden=false
+NoDisplay=true
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=filesystem
+Name=filesystem
+Comment[en_IN]=filesystem
+Comment=filesystem

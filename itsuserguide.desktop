@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=IT@School OS User Guide
+Comment=User guide for IT@School GNU/Linux 18.04
+Exec=/usr/bin/its-userguide
+Icon=/usr/local/kite-icons/itsuserguide.png
+Terminal=false
+Type=Application
+Categories=Utility;Office;
+StartupNotify=true

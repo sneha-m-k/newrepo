@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset Inkscape
+GenericName=Reset Inkscape
+Comment=Reset Inkscape to default state
+Exec=/usr/local/reset-settings/reset-inkscape
+Icon=/usr/local/reset-settings/icons/inkscape.png
+Terminal=false
+Type=Application
+NoDisplay=true

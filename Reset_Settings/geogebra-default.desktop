@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Geogebra Default
+GenericName=Geogebra Default
+Comment=Reset Geogebra to default interface
+Exec=/usr/local/reset-settings/geogebra-default
+Icon=/usr/local/reset-settings/icons/geogebra.png
+Terminal=false
+Type=Application
+NoDisplay=true

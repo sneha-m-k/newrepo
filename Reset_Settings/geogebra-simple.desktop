@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Geogebra Simple
+GenericName=Geogebra Simple
+Comment=Reset Geogebra to simple interface
+Exec=/usr/local/reset-settings/geogebra-simple
+Icon=/usr/local/reset-settings/icons/geogebra.png
+Terminal=false
+Type=Application
+NoDisplay=true

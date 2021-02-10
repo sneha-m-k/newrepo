@@ -1,0 +1,5 @@
+
+m=int(input("enter a no:"))
+def sq_tables():
+	print("sneha")
+

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=GCompris English
+GenericName=GCompris English
+Comment=Change Gcompris langauage to English
+Exec=/usr/local/reset-settings/gcompris-to-English
+Icon=/usr/local/reset-settings/icons/tuxplane.png
+Terminal=false
+Type=Application
+NoDisplay=true

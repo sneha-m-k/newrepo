@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset Desktop Settings
+GenericName=Reset Desktop Settings
+Comment=Reset Desktop Settings to default state
+Exec=/usr/local/reset-settings/reset-desktop
+Icon=/usr/local/reset-settings/icons/preferences-desktop.png
+Terminal=false
+Type=Application
+NoDisplay=true

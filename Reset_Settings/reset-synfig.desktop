@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset Synfig Studio
+GenericName=Reset Synfig Studio
+Comment=Reset Reset Synfig Studio to default state
+Exec=/usr/local/reset-settings/reset-synfig
+Icon=/usr/local/reset-settings/icons/synfig.png
+Terminal=false
+Type=Application
+NoDisplay=true

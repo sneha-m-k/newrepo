@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset PhET menu
+GenericName=Reset PhET menu
+Comment=Reset PhET menu to default view
+Exec=/usr/local/reset-settings/phet-menu-reset
+Icon=/usr/local/PhET/phet-logo-48x48.png
+Terminal=false
+Type=Application
+NoDisplay=true

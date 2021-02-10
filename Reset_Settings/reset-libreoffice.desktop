@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset LibreOffice
+GenericName=Reset LibreOffice
+Comment=Reset LibreOffice to default state
+Exec=/usr/local/reset-settings/reset-libreoffice
+Icon=/usr/local/reset-settings/icons/libreoffice-main.png
+Terminal=false
+Type=Application
+NoDisplay=true

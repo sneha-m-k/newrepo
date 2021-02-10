@@ -1,0 +1,110 @@
+2021/02/03 09:58:55.381  4300 140487253865088 GX0   Logger started.
+2021/02/03 09:58:55.388  4300 140487253865088 GX0   Found 0 stack dump files ...
+2021/02/03 09:58:55.388  4300 140487253865088 GX0   Found 0 core dump files ...
+2021/02/03 09:58:55.394  4300 140487253865088 GX0   systemd: logind service available
+2021/02/03 09:58:55.401  4300 140487253865088 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='c1', canGraphical=1, canTTY=1, canMultiSession=1]
+2021/02/03 09:58:55.404  4300 140487253865088 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c1 user=user state=user active=1 reliable=1 infoId=1591159457] [path=/org/freedesktop/login1/session/c1 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: user [uid=1000, gid=1000 home=/home/user gecos=user,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1612325845572481 service=lightdm-autologin defaultCG= leader=1065 audit=0 remote=0 rHost= rUser= killProc=0]
+2021/02/03 09:58:55.410  4300 140487253865088 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2021/02/03 09:58:55.410  4300 140487253865088 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2021/02/03 09:58:55.410  4300 140487253865088 GX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2021/02/03 09:58:55.411  4300 140487253865088 GX0   SysSessionInfoManager::SessionAdded: adding session XSession: 0 [SysSession 1591159457 [type=88 vt=7 tty= pseudotty=0 info=1 id=c1 user=user state=user active=1 reliable=1]]
+2021/02/03 09:58:55.414  4300 140487253865088 GX0   SysSessionInfoManager::GetOwnProcessSession: own session cache set to '1591159457'
+2021/02/03 09:58:55.477  4300 140487253865088 GX0   Running on Qt 5.9.5
+2021/02/03 09:58:55.699  4300 140487253865088 GX0   Initialised XRandR extension 1.5 (base=89 error=147)
+2021/02/03 09:58:55.715  4300 140487253865088 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/02/03 09:58:55.715  4300 140487253865088 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/02/03 09:58:55.716  4300 140487253865088 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/02/03 09:58:55.716  4300 140487253865088 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2021/02/03 09:58:55.731  4300 140487253865088 GX0   MonitorInfo: [XRandR 1.2] CRTC eDP-1 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2021/02/03 09:58:55.731  4300 140487253865088 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/02/03 09:58:55.732  4300 140487253865088 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/02/03 09:58:55.732  4300 140487253865088 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2021/02/03 09:58:55.842  4300 140487253865088 GX0   Loaded language 'en', using locale 'en-IN'
+2021/02/03 09:58:55.843  4300 140487253865088 GX0   InterProcessBase::SecureNetwork created
+2021/02/03 09:58:55.845  4300 140487253865088 GX0   AutoLogin::Login: enabled: 1
+2021/02/03 09:58:55.845  4300 140487253865088 GX0   AccountLoginStateMachine::Reset
+2021/02/03 09:58:55.846  4300 140486257395456 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2021/02/03 09:58:55.846  4300 140486257395456 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2021/02/03 09:58:55.846  4300 140486836745984 GX0   Local TCP connection established
+2021/02/03 09:58:55.943  4300 140486828353280 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2021/02/03 09:58:55.943  4300 140486828353280 GX0   IpcRemoteSettingsHandler::HandleCommand UserSettings process sends sync settings response to network.
+2021/02/03 09:58:55.944  4300 140486828353280 GX0   Received Control_InitIPC_Response processtype=1
+2021/02/03 09:58:55.944  4300 140486828353280 GX0   Received Control_InitIPC_Response runningProcesses=3
+2021/02/03 09:58:55.945  4300 140486828353280 GX0   IPCConnection: all processes 3 completely initialized
+
+
+
+Start:              2021/02/03 09:58:55.945 (UTC+5:30)
+Version:            15.14.5 
+Version short hash: f7f121a047a
+ID:                 0
+Loglevel:           Info (100)
+License:            0
+Server:             master12.teamviewer.com
+IC:                 1353310871
+CPU:                Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+CPU extensions:     l9
+OS:                 Lx Ubuntu 18.04.2 LT (x86_64)
+IP:                 192.168.42.246
+Proxy-Settings:     Type=0 IP= User=
+
+2021/02/03 09:59:01.527  4300 140487253865088 GX0   SystemID m=1 s=0 28e57f8f8d75f7beb31158855c2202a1
+2021/02/03 09:59:01.534  4300 140487253865088 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/02/03 09:59:04.347  4300 140486819960576 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=827088145 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2021/02/03 09:59:05.845  4300 140486828353280 GX0!! WorkingProxyListener::WorkingProxyResultHandler failed: 1, Errorcode=11
+2021/02/03 09:59:05.846  4300 140486828353280 GX0!  WorkingProxyListener::WorkingProxyResultHandler: setting default value ProxyType::Undefined
+2021/02/03 09:59:05.846  4300 140486811567872 GX0!! WorkingProxyListener::WorkingProxyResultHandler failed: 1, Errorcode=11
+2021/02/03 09:59:05.846  4300 140486811567872 GX0!  WorkingProxyListener::WorkingProxyResultHandler: setting default value ProxyType::Undefined
+2021/02/03 09:59:05.846  4300 140486836745984 GX0!! WorkingProxyListener::WorkingProxyResultHandler failed: 1, Errorcode=11
+2021/02/03 09:59:05.846  4300 140486836745984 GX0!  WorkingProxyListener::WorkingProxyResultHandler: setting default value ProxyType::Undefined
+2021/02/03 09:59:09.188  4300 140486836745984 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: fdc7e091-41cd-4119-be03-fe3ad0773608)
+2021/02/03 09:59:09.188  4300 140486836745984 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 3a1a29fc-9597-4c86-b0cd-ee7150095b61)
+2021/02/03 09:59:09.188  4300 140486836745984 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: e7d6fa84-bd65-4a1a-ad51-7864d191469c)
+2021/02/03 09:59:09.188  4300 140486836745984 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: d529df83-62cd-4c95-820f-ace0e67658ec)
+2021/02/03 09:59:09.189  4300 140486836745984 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 7288c210-705c-4e08-9a7e-a305345eb2bd)
+2021/02/03 09:59:09.189  4300 140486836745984 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=827088145 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/02/03 09:59:09.190  4300 140486819960576 GX0   Account::UpdateState: KA = 1, active = 1
+2021/02/03 09:59:10.669  4300 140486819960576 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "827088145", TSUserID "827088145", ServerID "827088145"
+2021/02/03 09:59:12.302  4300 140487253865088 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2021/02/03 09:59:12.302  4300 140486819960576 GX0   ChatManagerHolder::ClearAccountChat
+2021/02/03 09:59:12.302  4300 140486819960576 GX0   ChatManager::ChatManager: created
+2021/02/03 09:59:12.302  4300 140486819960576 GX0   ChatManager::Factory: ChatManager created
+2021/02/03 09:59:12.303  4300 140486819960576 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2021/02/03 09:59:12.303  4300 140486819960576 GX0   IncomingCommandRegistration::Start: registering for ready state properties
+2021/02/03 09:59:12.303  4300 140486811567872 GX0!! InterProcessBase::ProcessControlCommand Command 47 not handled, Errorcode=11
+2021/02/03 09:59:12.303  4300 140486819960576 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 5fa741f8-d0c2-4044-93e7-a3769c6c4d89)
+2021/02/03 09:59:12.303  4300 140486819960576 GX0   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/02/03 09:59:12.303  4300 140486811567872 GX0!! InterProcessBase::ProcessControlCommand Command 47 not handled, Errorcode=11
+2021/02/03 09:59:12.304  4300 140486811567872 GX0!! InterProcessBase::ProcessControlCommand Command 47 not handled, Errorcode=11
+2021/02/03 09:59:12.304  4300 140486811567872 GX0!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/02/03 09:59:12.307  4300 140487253865088 GX0   Initialised XFixes extension (base=87 error=140)
+2021/02/03 09:59:12.312  4300 140487253865088 GX0   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/02/03 09:59:12.314  4300 140487253865088 GX0   Account::SetLoginState: new state: 2
+2021/02/03 09:59:12.315  4300 140487253865088 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2021/02/03 09:59:12.346  4300 140486836745984 GX0   IpcRouterClock: received router time: 20210203T042912.400145
+2021/02/03 12:11:10.743  4300 140486828353280 GX0   AccountLoginStateMachine::RegisterForKeepAlive: lost connection
+2021/02/03 12:11:10.743  4300 140486828353280 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=827088145 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/02/03 12:11:10.743  4300 140486828353280 GX0   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/02/03 12:11:10.743  4300 140486828353280 GX0   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/02/03 12:11:10.743  4300 140486828353280 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 5fa741f8-d0c2-4044-93e7-a3769c6c4d89)
+2021/02/03 12:11:10.743  4300 140486828353280 GX0   Account::UpdateState: KA = 0, active = 1
+2021/02/03 12:11:10.744  4300 140487253865088 GX0   Account::SetLoginState: new state: 0
+2021/02/03 12:11:10.744  4300 140487253865088 GX0   AccountLoginStateMachine::OnAccountStateChange: Logout
+2021/02/03 12:11:10.744  4300 140487253865088 GX0   AccountLoginStateMachine::Reset
+2021/02/03 12:11:10.744  4300 140487253865088 GX0   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2021/02/03 12:11:10.744  4300 140486811567872 GX0   ChatManager::ClearNonAccountChat
+2021/02/03 14:18:35.560  4300 140485716539136 GX0   XClipboard: RequestClipboard as TARGETS (403)
+2021/02/03 14:18:35.610  4300 140485716539136 GX0   XClipboard: RequestClipboard as UTF8_STRING (300)
+2021/02/03 14:18:35.650  4300 140485716539136 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=1, c=2)
+2021/02/03 14:19:10.588  4300 140487253865088 GX0   GuiMain: commitDataRequest (session might shut down)
+2021/02/03 14:19:10.598  4300 140487253865088 GX0   DBusStatusNotifier: watcher change: org.kde.StatusNotifierWatcher (:1.26 
+2021/02/03 14:19:10.978  4300 140486819960576 GX0   Received Control_TerminateProcess
+2021/02/03 14:19:11.153  4300 140486786389760 GX0   SysSessionInfoManager::SessionRemoved: removing session XSession: 0 [SysSession 1591159457 [type=88 vt=7 tty= pseudotty=0 info=1 id=c1 user=user state=user active=1 reliable=1]]
+2021/02/03 14:19:11.153  4300 140486913926912 GX0   systemd: ActiveSession: activatedSessionId= deactivatedSessionId=c1
+2021/02/03 14:19:11.761  4300 140486828353280 GX0!! DecryptByteArray exception: StoredDataCipherAES: Invalid Ciphertext, error: "StreamTransformationFilter: invalid PKCS #7 block padding found", Errorcode=11
+2021/02/03 14:19:11.762  4300 140486828353280 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=0 showDynPwd=0
+2021/02/03 14:19:11.762  4300 140486819960576 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "0", TSUserID "827088145", ServerID "827088145"
+2021/02/03 14:19:11.763  4300 140486828353280 GX0   IncomingCommandRegistration::TeamViewerOnlineStateChanged: TeamViewer-Onlinestate changed to offline
+2021/02/03 14:19:11.764  4300 140486828353280 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "0", TSUserID "0", ServerID "827088145"
+2021/02/03 14:19:11.764  4300 140486819960576 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "0", TSUserID "0", ServerID "0"
+2021/02/03 14:19:11.766  4300 140487253865088 GX0!!!Crash: stack dump has been written at '/home/user/.local/share/teamviewer15/logfiles/TeamViewer_FI_15.14.5_2021-02-03-141911.amd64.stack', Errorcode=104

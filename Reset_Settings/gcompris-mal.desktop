@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=GCompris Malayalam
+GenericName=GCompris Malayalam
+Comment=Change Gcompris langauage to Malayalam
+Exec=/usr/local/reset-settings/gcompris-to-Malayalam
+Icon=/usr/local/reset-settings/icons/tuxplane.png
+Terminal=false
+Type=Application
+NoDisplay=true

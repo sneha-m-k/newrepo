@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/Downloads/skypeforlinux-64.deb" added="2021-02-02T14:11:12Z" modified="2021-02-02T14:11:12Z" visited="2021-02-02T14:11:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-02T14:11:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/teamviewer_15.14.5_amd64.deb" added="2021-02-03T04:21:47Z" modified="2021-02-03T04:21:47Z" visited="2021-02-03T04:21:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-03T04:21:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/FileZilla_3.52.2_x86_64-linux-gnu.tar.bz2" added="2021-02-03T04:27:32Z" modified="2021-02-03T04:28:13Z" visited="2021-02-03T04:27:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-03T04:27:32Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-02-03T04:28:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/slide.slide-4-datas.pdf" added="2021-02-03T05:29:43Z" modified="2021-02-03T05:29:50Z" visited="2021-02-03T05:29:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-03T05:29:43Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-03T05:29:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Presentation%20Topic.pdf" added="2021-02-03T10:37:23Z" modified="2021-02-03T10:37:23Z" visited="2021-02-03T10:37:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-03T10:37:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/UNIXProgrammingEnvironment.pdf" added="2021-02-04T05:11:09Z" modified="2021-02-04T05:11:09Z" visited="2021-02-04T05:11:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T05:11:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/pipe%20command.pdf" added="2021-02-04T05:11:50Z" modified="2021-02-04T12:17:38Z" visited="2021-02-04T05:11:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T12:17:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Topics%20(1).pdf" added="2021-02-04T05:12:51Z" modified="2021-02-04T05:48:34Z" visited="2021-02-04T05:12:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T05:48:34Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Client%20Side%20-server%20side.pdf" added="2021-02-04T05:49:01Z" modified="2021-02-04T05:49:01Z" visited="2021-02-04T05:49:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T05:49:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/problem%20solving%20mechanism.pdf" added="2021-02-04T05:49:31Z" modified="2021-02-04T05:49:31Z" visited="2021-02-04T05:49:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T05:49:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Learn%20Python%20The%20Hard%20Way,%203rd%20Edition%20%20(3).pdf" added="2021-02-04T08:29:36Z" modified="2021-02-04T08:29:36Z" visited="2021-02-04T08:29:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T08:29:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Task%20for%20today.pdf" added="2021-02-04T12:15:37Z" modified="2021-02-04T12:15:37Z" visited="2021-02-04T12:15:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-04T12:15:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/sneha.txt/sne.txt" added="2021-02-04T13:58:34Z" modified="2021-02-04T13:58:34Z" visited="2021-02-04T13:58:34Z">
+    <title>sne.txt</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit file:///home/user/sneha.txt/Untitled%20Document&apos;" modified="2021-02-04T13:58:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Learn%20Python%20The%20Hard%20Way,%203rd%20Edition%20%20(3)%20(1).pdf" added="2021-02-04T14:08:07Z" modified="2021-02-08T05:16:12Z" visited="2021-02-04T14:08:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-08T05:16:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Task%20for%20today%20(1).pdf" added="2021-02-05T04:14:22Z" modified="2021-02-05T04:14:22Z" visited="2021-02-05T04:14:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-05T04:14:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Learn%20Python%20The%20Hard%20Way,%203rd%20Edition%20%20(3)%20(2).pdf" added="2021-02-05T04:17:28Z" modified="2021-02-09T04:41:16Z" visited="2021-02-05T04:17:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-09T04:41:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/python3" added="2021-02-05T04:17:53Z" modified="2021-02-05T04:17:53Z" visited="2021-02-05T04:17:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-05T04:17:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/python/sneha.py" added="2021-02-05T04:52:51Z" modified="2021-02-05T05:45:25Z" visited="2021-02-05T04:52:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-05T04:52:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/python/counter.py" added="2021-02-05T05:11:19Z" modified="2021-02-05T05:45:27Z" visited="2021-02-05T05:11:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-05T05:11:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/python/while.py" added="2021-02-05T05:28:49Z" modified="2021-02-05T05:45:29Z" visited="2021-02-05T05:28:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-05T05:28:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/hlo.py" added="2021-02-05T08:23:59Z" modified="2021-02-07T12:27:04Z" visited="2021-02-05T08:24:00Z">
+    <title>hlo.py</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text file:///home/user/Desktop/hlo&apos;" modified="2021-02-05T08:23:59Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-07T12:27:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/weekend%20task%201.pdf" added="2021-02-05T08:34:47Z" modified="2021-02-08T05:13:11Z" visited="2021-02-05T08:34:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-08T05:13:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/weekend%20task%202.pdf" added="2021-02-05T08:36:16Z" modified="2021-02-05T08:36:16Z" visited="2021-02-05T08:36:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-05T08:36:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/tables.py" added="2021-02-07T04:52:32Z" modified="2021-02-07T12:27:09Z" visited="2021-02-07T04:52:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T04:52:32Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-07T12:27:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/sqtables" added="2021-02-07T05:18:38Z" modified="2021-02-07T05:18:38Z" visited="2021-02-07T05:18:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T05:18:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/sqtables.py" added="2021-02-07T05:20:46Z" modified="2021-02-07T05:20:46Z" visited="2021-02-07T05:20:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T05:20:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/bizz.py" added="2021-02-07T05:46:48Z" modified="2021-02-07T05:46:48Z" visited="2021-02-07T05:46:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T05:46:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/freq.py" added="2021-02-07T06:36:35Z" modified="2021-02-07T06:36:35Z" visited="2021-02-07T06:36:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T06:36:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/panagram.py" added="2021-02-07T06:55:47Z" modified="2021-02-07T13:02:35Z" visited="2021-02-07T06:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T13:02:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/breakdown.py" added="2021-02-07T12:20:38Z" modified="2021-02-07T12:20:38Z" visited="2021-02-07T12:20:38Z">
+    <title>breakdown.py</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text file:///home/user/Desktop/breakdown&apos;" modified="2021-02-07T12:20:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/string.py" added="2021-02-07T12:23:56Z" modified="2021-02-08T05:04:45Z" visited="2021-02-07T12:23:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T12:23:56Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-08T05:04:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/counter.py" added="2021-02-07T12:26:55Z" modified="2021-02-08T05:14:51Z" visited="2021-02-07T12:26:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-08T05:14:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/sneha.py" added="2021-02-07T12:27:17Z" modified="2021-02-08T05:14:32Z" visited="2021-02-07T12:27:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-08T05:14:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/hello.py" added="2021-02-07T12:39:58Z" modified="2021-02-07T12:39:58Z" visited="2021-02-07T12:39:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T12:39:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/firstlast.py" added="2021-02-07T12:48:12Z" modified="2021-02-07T12:48:12Z" visited="2021-02-07T12:48:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T12:48:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/ispanagram.py" added="2021-02-07T13:04:48Z" modified="2021-02-07T13:04:48Z" visited="2021-02-07T13:04:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T13:04:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/break.py" added="2021-02-07T13:58:28Z" modified="2021-02-07T13:58:28Z" visited="2021-02-07T13:58:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T13:58:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/br.py" added="2021-02-07T14:25:05Z" modified="2021-02-07T14:25:05Z" visited="2021-02-07T14:25:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-07T14:25:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/while.py" added="2021-02-08T05:15:30Z" modified="2021-02-08T05:15:30Z" visited="2021-02-08T05:15:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-08T05:15:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/sumdoubles.py" added="2021-02-08T06:52:49Z" modified="2021-02-08T06:52:49Z" visited="2021-02-08T06:52:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-08T06:52:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/monkey.py" added="2021-02-08T06:58:17Z" modified="2021-02-08T06:58:17Z" visited="2021-02-08T06:58:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-08T06:58:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/makes10.py" added="2021-02-08T07:01:36Z" modified="2021-02-08T07:01:36Z" visited="2021-02-08T07:01:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-08T07:01:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/array.py" added="2021-02-08T07:05:14Z" modified="2021-02-08T07:05:14Z" visited="2021-02-08T07:05:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-08T07:05:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Presentation%20Topic%20(2).pdf" added="2021-02-08T09:07:04Z" modified="2021-02-08T09:07:04Z" visited="2021-02-08T09:07:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-08T09:07:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Desktop/topic.py" added="2021-02-08T09:15:22Z" modified="2021-02-08T09:15:22Z" visited="2021-02-08T09:15:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2021-02-08T09:15:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/introduction%20to%20version%20control%20system.pdf" added="2021-02-09T04:29:14Z" modified="2021-02-09T04:29:14Z" visited="2021-02-09T04:29:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-02-09T04:29:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

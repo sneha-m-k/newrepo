@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=PhET Kannada menu
+GenericName=PhET Kannada menu
+Comment=Include page for PhET Kannada Simulations in menu
+Exec=/usr/local/reset-settings/phet-kn-menu
+Icon=/usr/local/PhET/phet-logo-48x48.png
+Terminal=false
+Type=Application
+NoDisplay=true

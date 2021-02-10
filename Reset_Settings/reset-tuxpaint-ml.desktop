@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset TuxPaint to Malayalam
+GenericName=Reset TuxPaint to Malayalam
+Comment=Reset TuxPaint Interface to Malayalam
+Exec=/usr/local/reset-settings/reset-tuxpaint-ml
+Icon=/usr/local/reset-settings/icons/tuxpaint.png
+Terminal=false
+Type=Application
+NoDisplay=true

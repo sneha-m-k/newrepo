@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset TuxPaint to English
+GenericName=Reset TuxPaint to English
+Comment=Reset TuxPaint interface to English
+Exec=/usr/local/reset-settings/reset-tuxpaint-eng
+Icon=/usr/local/reset-settings/icons/tuxpaint.png
+Terminal=false
+Type=Application
+NoDisplay=true

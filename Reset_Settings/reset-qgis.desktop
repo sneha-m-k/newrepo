@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset QGIS
+GenericName=Reset QGIS
+Comment=Reset QGIS to default state
+Exec=/usr/local/reset-settings/reset-qgis
+Icon=/usr/local/reset-settings/icons/qgis.png
+Terminal=false
+Type=Application
+NoDisplay=true

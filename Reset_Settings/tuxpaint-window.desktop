@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Tuxpaint Window
+GenericName=Tuxpaint Window
+Comment=Change Tuxpaint screen to windowed and fullscreen
+Exec=/usr/local/reset-settings/tuxpaint-fullscreen
+Icon=/usr/local/reset-settings/icons/tuxpaint.png
+Terminal=false
+Type=Application
+NoDisplay=true

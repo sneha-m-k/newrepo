@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset Marble
+GenericName=Reset Marble
+Comment=Reset Marble to default state
+Exec=/usr/local/reset-settings/reset-marble
+Icon=/usr/local/reset-settings/icons/marble.png
+Terminal=false
+Type=Application
+NoDisplay=true

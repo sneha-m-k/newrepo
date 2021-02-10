@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=PhET Tamil menu
+GenericName=PhET Tamil menu
+Comment=Include page for PhET Tamil Simulations in menu
+Exec=/usr/local/reset-settings/phet-ta-menu
+Icon=/usr/local/PhET/phet-logo-48x48.png
+Terminal=false
+Type=Application
+NoDisplay=true

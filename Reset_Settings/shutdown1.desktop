@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Shut Down
+Comment=Shut down the computer
+Exec=gnome-session-quit --power-off
+Icon=/usr/local/reset-settings/icons/system-shutdown.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;
+NotShowIn=KDE;
+X-Ubuntu-Gettext-Domain=shutdown
+NoDisplay=true

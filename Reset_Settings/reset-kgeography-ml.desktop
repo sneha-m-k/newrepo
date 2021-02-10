@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=KGeography Malayalam
+GenericName=KGeography Malayalam
+Comment=Reset KGeography Interface to Malayalam
+Exec=/usr/local/reset-settings/kgeography-to-Malayalam
+Icon=/usr/local/reset-settings/icons/kgeography.png
+Terminal=false
+Type=Application
+NoDisplay=true

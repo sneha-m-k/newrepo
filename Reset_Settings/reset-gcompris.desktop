@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Reset GCompris
+GenericName=Reset GCompris
+Comment=Reset GCompris to default state
+Exec=/usr/local/reset-settings/reset-gcompris
+Icon=/usr/local/reset-settings/icons/gcompris.png
+Terminal=false
+Type=Application
+NoDisplay=true

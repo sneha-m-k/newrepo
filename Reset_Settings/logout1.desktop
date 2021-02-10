@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Log Out
+GenericName=Log Out
+Comment=log out the session
+Exec=gnome-session-quit
+Icon=/usr/local/reset-settings/icons/system-log-out.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;
+NotShowIn=KDE;
+X-Ubuntu-Gettext-Domain=logout
+NoDisplay=true
